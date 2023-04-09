@@ -127,11 +127,11 @@ move the mac_hdd_ng.img file to libvirt images
 mv mac_hdd_ng.img ~/libvirt/images
 #+end_src
 
-*** edit the ~/libvirt/OSX-KVM/OpenCore-Boot.sh
+*** edit the ~/libvirt/OpenCore-Boot.sh
 
 
 #+begin_src sh
-vi ~/libvirt/OSX-KVM/OpenCore-Boot.sh
+vi ~/libvirt/OpenCore-Boot.sh
 #+end_src
 
 change the following 2 lines 
